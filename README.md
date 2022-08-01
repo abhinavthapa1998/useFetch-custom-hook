@@ -1,2 +1,2 @@
 # useFetch-custom-hook
-Created with CodeSandbox
+Basic data fetching hook implemented with axios
